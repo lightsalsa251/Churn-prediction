@@ -5,9 +5,7 @@ Customer churn prediction slashes marketing costs upto 40%. Significant historic
 ### Some results of EDA
 <img src="https://drive.google.com/uc?id=1kNrfIdDnCbCWuY_-jDNiP3xfrZb-DSYn"> 
 <img src="https://drive.google.com/uc?id=1DjG0nOHiJfD0nVvc-i0blXPd4n22n6gG"> 
-<img src="https://drive.google.com/uc?id=1Z1nVlxm7c183YIPNA2FH50gaeGfHX9fX"> 
 
-Exited vs Age plot -> People in the middle stages of their life leave bank more often, elderly people refrain from leaving their banks  
 Exited vs Balance plot -> People with very high or very low balance are more likely to leave the bank  
 Exited vs credit score -> No suprises, low credit score leads to people changing their banks  
 
