@@ -31,7 +31,7 @@ Other techniques which can be used are:
 * Download the data from superdatascience.com
 * Clone this repository to your computer.
 * Get into the folder using cd Churn-prediction.
-#### Installing the requirements
+### Installing the requirements
 * pip install lightgbm
 * pip install pandas
 * pip install numpy
