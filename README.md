@@ -38,7 +38,7 @@ when calculating the information gain. By doing so, we put more focus on the und
 without changing the original data distribution by much.  
 
 For Gradient boosting decision tree, information gain is measured by variance after splitting. Variance of splitting feature j at a point d for that node is equal to: ((sum (Gi^2/number of Xi less than/equal to d)) + (sum (Gi^2/number of Xi greater than d))) / n.
-
+<img src = "https://cdn-images-1.medium.com/max/1600/1*whSa8rY4sgFQj1rEcWr8Ag.png">
 ### Installation
 * Download the data from superdatascience.com
 * Clone this repository to your computer.
