@@ -1,6 +1,8 @@
 # Churn-prediction
 [![Click here](http://img.youtube.com/vi/DpHIjhkc8MI&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=DpHIjhkc8MI&feature=youtu.be)
 
+<a href="https://www.youtube.com/watch?v=DpHIjhkc8MI&feature=youtu.be"><img src="https://drive.google.com/open?id=181bQojZh8SbEgxPlHIEK0C0NZbF4BAGA"  width="240" height="180" border="10" /></a>
+
 **Customer churn predicted with 87% accuracy using state-of-the-art technique.**  
 Customer churn prediction slashes marketing costs upto 40%. Significant historical work has been done on it and almost every company in the world uses such a tool. I present a holistic data science pipeline and the use of **LightGBM** which is very robust to unusual distributions and is one of the **fastest** machine learning algorithm till date.  
 
