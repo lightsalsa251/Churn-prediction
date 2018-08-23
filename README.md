@@ -1,4 +1,5 @@
 # Churn-prediction
+#### CLICK THE FOLLOWING IMAGE TO WATCH HOW THIS TOOL WORKS
 [![](https://i.imgur.com/X2EY4C7.png)](https://www.youtube.com/watch?v=DpHIjhkc8MI&feature=youtu.be)
 
 
